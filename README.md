@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">📫 Contact</h3>
+<p align="left">Contact</p>
 
 ###
 
@@ -53,16 +53,12 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magalhaeslucasss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magalhaeslucasss&layout=compact&langs_count=7&theme=dark"/>
-
-  <img src="https://streak-stats.demolab.com?user=magalhaeslucasss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=magalhaeslucasss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
