@@ -38,27 +38,31 @@
 
 ###
 
-<p align="left">Contact</p>
+<h3 align="left">📫 Contact</h3>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/lucasmagalhaessilva" target="_blank">
+  <a href="href="https://www.linkedin.com/in/lucasmagalhaessilva"" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="magalhaes.lucas2509@gmail.com" target="_blank">
+  <a href="href="mailto:magalhaes.lucas2509@gmail.com"" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=magalhaeslucasss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magalhaeslucasss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magalhaeslucasss&layout=compact&langs_count=7&theme=dark"/>
+
+  <img src="https://streak-stats.demolab.com?user=magalhaeslucasss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
