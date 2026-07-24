@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Information+Systems+Student;IT+Infrastructure+and+Software+Development;Always+learning+new+technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Information+Systems+Student;+Software+Development;Always+learning+new+technologies" />
 </p>
 
 ###
